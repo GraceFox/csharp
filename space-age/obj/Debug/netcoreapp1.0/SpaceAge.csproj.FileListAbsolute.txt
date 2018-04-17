@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\SpaceAge.deps.json
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\SpaceAge.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\SpaceAge.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\SpaceAge.dll
+C:\Users\grace.fox\exercism\csharp\space-age\bin\Debug\netcoreapp1.0\SpaceAge.pdb
+C:\Users\grace.fox\exercism\csharp\space-age\obj\Debug\netcoreapp1.0\SpaceAge.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\space-age\obj\Debug\netcoreapp1.0\SpaceAge.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\space-age\obj\Debug\netcoreapp1.0\SpaceAge.dll
+C:\Users\grace.fox\exercism\csharp\space-age\obj\Debug\netcoreapp1.0\SpaceAge.pdb

@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\BeerSong.deps.json
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\BeerSong.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\BeerSong.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\BeerSong.dll
+C:\Users\grace.fox\exercism\csharp\beer-song\bin\Debug\netcoreapp1.0\BeerSong.pdb
+C:\Users\grace.fox\exercism\csharp\beer-song\obj\Debug\netcoreapp1.0\BeerSong.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\beer-song\obj\Debug\netcoreapp1.0\BeerSong.dll
+C:\Users\grace.fox\exercism\csharp\beer-song\obj\Debug\netcoreapp1.0\BeerSong.pdb
+C:\Users\grace.fox\exercism\csharp\beer-song\obj\Debug\netcoreapp1.0\BeerSong.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\Gigasecond.deps.json
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\Gigasecond.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\Gigasecond.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\Gigasecond.dll
+C:\Users\grace.fox\exercism\csharp\gigasecond\bin\Debug\netcoreapp1.0\Gigasecond.pdb
+C:\Users\grace.fox\exercism\csharp\gigasecond\obj\Debug\netcoreapp1.0\Gigasecond.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\gigasecond\obj\Debug\netcoreapp1.0\Gigasecond.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\gigasecond\obj\Debug\netcoreapp1.0\Gigasecond.dll
+C:\Users\grace.fox\exercism\csharp\gigasecond\obj\Debug\netcoreapp1.0\Gigasecond.pdb

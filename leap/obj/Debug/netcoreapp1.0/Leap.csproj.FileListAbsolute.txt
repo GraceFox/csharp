@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\Leap.deps.json
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\Leap.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\Leap.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\Leap.dll
+C:\Users\grace.fox\exercism\csharp\leap\bin\Debug\netcoreapp1.0\Leap.pdb
+C:\Users\grace.fox\exercism\csharp\leap\obj\Debug\netcoreapp1.0\Leap.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\leap\obj\Debug\netcoreapp1.0\Leap.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\leap\obj\Debug\netcoreapp1.0\Leap.dll
+C:\Users\grace.fox\exercism\csharp\leap\obj\Debug\netcoreapp1.0\Leap.pdb

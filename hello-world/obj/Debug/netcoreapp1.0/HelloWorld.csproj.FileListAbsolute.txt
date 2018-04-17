@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\HelloWorld.deps.json
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\HelloWorld.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\HelloWorld.dll
+C:\Users\grace.fox\exercism\csharp\hello-world\bin\Debug\netcoreapp1.0\HelloWorld.pdb
+C:\Users\grace.fox\exercism\csharp\hello-world\obj\Debug\netcoreapp1.0\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\hello-world\obj\Debug\netcoreapp1.0\HelloWorld.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\hello-world\obj\Debug\netcoreapp1.0\HelloWorld.dll
+C:\Users\grace.fox\exercism\csharp\hello-world\obj\Debug\netcoreapp1.0\HelloWorld.pdb

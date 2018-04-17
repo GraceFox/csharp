@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\Grains.deps.json
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\Grains.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\Grains.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\Grains.dll
+C:\Users\grace.fox\exercism\csharp\grains\bin\Debug\netcoreapp1.0\Grains.pdb
+C:\Users\grace.fox\exercism\csharp\grains\obj\Debug\netcoreapp1.0\Grains.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\grains\obj\Debug\netcoreapp1.0\Grains.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\grains\obj\Debug\netcoreapp1.0\Grains.dll
+C:\Users\grace.fox\exercism\csharp\grains\obj\Debug\netcoreapp1.0\Grains.pdb

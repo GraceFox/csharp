@@ -1,0 +1,14 @@
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.deps.json
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.dll
+C:\Users\grace.fox\exercism\csharp\series\bin\Debug\netcoreapp2.0\Series.pdb
+C:\Users\grace.fox\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\grace.fox\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.AssemblyInfoInputs.cache
+C:\Users\grace.fox\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.dll
+C:\Users\grace.fox\exercism\csharp\series\obj\Debug\netcoreapp2.0\Series.pdb

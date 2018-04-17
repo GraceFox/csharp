@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\RnaTranscription.deps.json
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\RnaTranscription.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\RnaTranscription.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\RnaTranscription.dll
+C:\Users\grace.fox\exercism\csharp\rna-transcription\bin\Debug\netcoreapp1.0\RnaTranscription.pdb
+C:\Users\grace.fox\exercism\csharp\rna-transcription\obj\Debug\netcoreapp1.0\RnaTranscription.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\rna-transcription\obj\Debug\netcoreapp1.0\RnaTranscription.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\rna-transcription\obj\Debug\netcoreapp1.0\RnaTranscription.dll
+C:\Users\grace.fox\exercism\csharp\rna-transcription\obj\Debug\netcoreapp1.0\RnaTranscription.pdb

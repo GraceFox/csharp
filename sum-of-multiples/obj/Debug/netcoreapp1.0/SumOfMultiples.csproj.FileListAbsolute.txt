@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\SumOfMultiples.deps.json
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\SumOfMultiples.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\SumOfMultiples.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\SumOfMultiples.dll
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp1.0\SumOfMultiples.pdb
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp1.0\SumOfMultiples.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp1.0\SumOfMultiples.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp1.0\SumOfMultiples.dll
+C:\Users\grace.fox\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp1.0\SumOfMultiples.pdb

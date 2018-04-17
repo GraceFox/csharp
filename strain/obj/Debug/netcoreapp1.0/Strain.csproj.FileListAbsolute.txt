@@ -1,0 +1,14 @@
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\Strain.deps.json
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\Strain.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\Strain.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\Strain.dll
+C:\Users\grace.fox\exercism\csharp\strain\bin\Debug\netcoreapp1.0\Strain.pdb
+C:\Users\grace.fox\exercism\csharp\strain\obj\Debug\netcoreapp1.0\Strain.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\strain\obj\Debug\netcoreapp1.0\Strain.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\strain\obj\Debug\netcoreapp1.0\Strain.dll
+C:\Users\grace.fox\exercism\csharp\strain\obj\Debug\netcoreapp1.0\Strain.pdb
+C:\Users\grace.fox\exercism\csharp\strain\obj\Debug\netcoreapp1.0\Strain.csproj.CoreCompileInputs.cache
+C:\Users\grace.fox\exercism\csharp\strain\obj\Debug\netcoreapp1.0\Strain.AssemblyInfoInputs.cache

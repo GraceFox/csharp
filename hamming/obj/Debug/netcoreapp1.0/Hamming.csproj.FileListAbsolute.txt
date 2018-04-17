@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\Hamming.deps.json
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\Hamming.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\Hamming.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\Hamming.dll
+C:\Users\grace.fox\exercism\csharp\hamming\bin\Debug\netcoreapp1.0\Hamming.pdb
+C:\Users\grace.fox\exercism\csharp\hamming\obj\Debug\netcoreapp1.0\Hamming.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\hamming\obj\Debug\netcoreapp1.0\Hamming.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\hamming\obj\Debug\netcoreapp1.0\Hamming.dll
+C:\Users\grace.fox\exercism\csharp\hamming\obj\Debug\netcoreapp1.0\Hamming.pdb

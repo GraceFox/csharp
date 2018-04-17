@@ -1,0 +1,10 @@
+etl: Dictionaries transferring dictionary into a different layout
+rna-transcriptionS : String replacement	 #zip
+acronyms  phrase.Split(' ', '-') use space and hypen to then select first letter of each word in string
+allergens  Flags and bit masks
+
+revisit sieve
+kindergarten UGH
+simple linked list - IEnumerable and regular lists, I found guidance on nodes etc but couldnt work out how to make it work other than copying someone
+allergies - binary mask. I understand the concept just not how the exercise is laid out
+

@@ -1,0 +1,14 @@
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\WordCount.deps.json
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\grace.fox\exercism\csharp\word-count\bin\Debug\netcoreapp2.0\WordCount.pdb
+C:\Users\grace.fox\exercism\csharp\word-count\obj\Debug\netcoreapp2.0\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\word-count\obj\Debug\netcoreapp2.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\grace.fox\exercism\csharp\word-count\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\grace.fox\exercism\csharp\word-count\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\word-count\obj\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\grace.fox\exercism\csharp\word-count\obj\Debug\netcoreapp2.0\WordCount.pdb

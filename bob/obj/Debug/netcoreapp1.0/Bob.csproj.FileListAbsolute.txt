@@ -1,0 +1,14 @@
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\Bob.deps.json
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\Bob.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\Bob.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\Bob.dll
+C:\Users\grace.fox\exercism\csharp\bob\bin\Debug\netcoreapp1.0\Bob.pdb
+C:\Users\grace.fox\exercism\csharp\bob\obj\Debug\netcoreapp1.0\Bob.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\bob\obj\Debug\netcoreapp1.0\Bob.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\bob\obj\Debug\netcoreapp1.0\Bob.dll
+C:\Users\grace.fox\exercism\csharp\bob\obj\Debug\netcoreapp1.0\Bob.pdb
+C:\Users\grace.fox\exercism\csharp\bob\obj\Debug\netcoreapp1.0\Bob.csproj.CoreCompileInputs.cache
+C:\Users\grace.fox\exercism\csharp\bob\obj\Debug\netcoreapp1.0\Bob.AssemblyInfoInputs.cache

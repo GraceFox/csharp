@@ -1,0 +1,14 @@
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\GradeSchool.deps.json
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\GradeSchool.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\GradeSchool.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\GradeSchool.dll
+C:\Users\grace.fox\exercism\csharp\grade-school\bin\Debug\netcoreapp1.0\GradeSchool.pdb
+C:\Users\grace.fox\exercism\csharp\grade-school\obj\Debug\netcoreapp1.0\GradeSchool.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\grade-school\obj\Debug\netcoreapp1.0\GradeSchool.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\grade-school\obj\Debug\netcoreapp1.0\GradeSchool.dll
+C:\Users\grace.fox\exercism\csharp\grade-school\obj\Debug\netcoreapp1.0\GradeSchool.pdb
+C:\Users\grace.fox\exercism\csharp\grade-school\obj\Debug\netcoreapp1.0\GradeSchool.csproj.CoreCompileInputs.cache
+C:\Users\grace.fox\exercism\csharp\grade-school\obj\Debug\netcoreapp1.0\GradeSchool.AssemblyInfoInputs.cache

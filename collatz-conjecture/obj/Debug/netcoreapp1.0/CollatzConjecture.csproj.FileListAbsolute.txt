@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\CollatzConjecture.deps.json
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\CollatzConjecture.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\CollatzConjecture.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\CollatzConjecture.dll
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp1.0\CollatzConjecture.pdb
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp1.0\CollatzConjecture.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp1.0\CollatzConjecture.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp1.0\CollatzConjecture.dll
+C:\Users\grace.fox\exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp1.0\CollatzConjecture.pdb

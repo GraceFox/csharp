@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\TwoFer.deps.json
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\TwoFer.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\TwoFer.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\TwoFer.dll
+C:\Users\grace.fox\exercism\csharp\two-fer\bin\Debug\netcoreapp1.1\TwoFer.pdb
+C:\Users\grace.fox\exercism\csharp\two-fer\obj\Debug\netcoreapp1.1\TwoFer.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\two-fer\obj\Debug\netcoreapp1.1\TwoFer.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\two-fer\obj\Debug\netcoreapp1.1\TwoFer.dll
+C:\Users\grace.fox\exercism\csharp\two-fer\obj\Debug\netcoreapp1.1\TwoFer.pdb

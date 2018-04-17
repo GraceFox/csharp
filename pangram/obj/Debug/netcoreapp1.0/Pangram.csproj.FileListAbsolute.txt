@@ -1,0 +1,12 @@
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\Pangram.deps.json
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\Pangram.runtimeconfig.json
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\Pangram.runtimeconfig.dev.json
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\Pangram.dll
+C:\Users\grace.fox\exercism\csharp\pangram\bin\Debug\netcoreapp1.0\Pangram.pdb
+C:\Users\grace.fox\exercism\csharp\pangram\obj\Debug\netcoreapp1.0\Pangram.csprojResolveAssemblyReference.cache
+C:\Users\grace.fox\exercism\csharp\pangram\obj\Debug\netcoreapp1.0\Pangram.AssemblyInfo.cs
+C:\Users\grace.fox\exercism\csharp\pangram\obj\Debug\netcoreapp1.0\Pangram.dll
+C:\Users\grace.fox\exercism\csharp\pangram\obj\Debug\netcoreapp1.0\Pangram.pdb
